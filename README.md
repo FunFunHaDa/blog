@@ -121,7 +121,7 @@
 
 4\. [원격저장소](https://blog.naver.com/kjhkjh0929/221282590696)
 
-5\. [Github에서 사용되는 MarkDown 기본 문법](https://blog.naver.com/kjhkjh0929/221788290776)
+5\. [Github에서 사용되는 MarkDown 기본 문법](https://github.com/FunFunHaDa/MarkDown_Lab#markdown-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 ### sql  
 0 . [sql](https://blog.naver.com/kjhkjh0929/221538375646)
