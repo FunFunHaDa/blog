@@ -2,6 +2,9 @@
 
 ### [Github](https://github.com/FunFunHaDa), [Naver_blog](https://blog.naver.com/kjhkjh0929)
 
+### AWS
+0\. [AWS 기본 사용법 (Windows 10, putty)](https://github.com/FunFunHaDa/blog/blob/master/AWS/GettingStartedonAmazonWebServices.md#aws-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-windows-10-putty)
+
 ### C
 0\. [최소공배수, 최대공약수](https://blog.naver.com/kjhkjh0929/221339288660)
 
@@ -177,6 +180,8 @@
 8\. [node.js (Windows 10)](https://blog.naver.com/kjhkjh0929/221759736301)
 
 9\. [Anaconda (Windows 10)](https://blog.naver.com/kjhkjh0929/221774228128)
+
+10\. [putty (Windows 10)](https://blog.naver.com/kjhkjh0929/221776472229)
 
 ### 한글은 아름답다
 
