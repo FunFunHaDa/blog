@@ -46,8 +46,54 @@
 **▼ 인스턴스 => 체크 => 우 클릭 => 인스턴스 상태 => 종료** 
 ![Image](https://user-images.githubusercontent.com/28629625/74021365-bebf5900-49de-11ea-93cd-bc23365c0459.png)
 
-**▼ 예, 종료**
+**▼ 예, 종료**  
 ![Image](https://user-images.githubusercontent.com/28629625/74021372-c252e000-49de-11ea-8b20-143fc614ae86.png)
 
-### 연관
+## putty에서 AWS 접속하는 법
+
+### funfunhada.pem => funfunhada.ppk로 변환
+
+**▼ 우 클릭 => Run PuTTYgen**  
+![Image](https://user-images.githubusercontent.com/28629625/74033666-02738c00-49fa-11ea-8e4c-27e67da36963.png)
+
+**▼ Load**   
+![Image](https://user-images.githubusercontent.com/28629625/74033673-06071300-49fa-11ea-9a23-01f442b69b1f.png)
+
+**▼ All Files(`*.*`) => funfunhada.pem => 열기**  
+![Image](https://user-images.githubusercontent.com/28629625/74033682-0a333080-49fa-11ea-9c0d-bed115d1c769.png)
+
+**▼ 확인**  
+![Image](https://user-images.githubusercontent.com/28629625/74033687-0d2e2100-49fa-11ea-8d7c-8116dfecaff0.png)
+
+**▼ Save private key => 예(Y) (같은 폴더 위치에 .ppk 생성 완료)**   
+![Image](https://user-images.githubusercontent.com/28629625/74033696-11f2d500-49fa-11ea-8cd3-d0d5203cd4c2.png)
+
+**▼ putty 실행 => ip 주소 입력**  
+![Image](https://user-images.githubusercontent.com/28629625/74033705-15865c00-49fa-11ea-8aca-e827a130f922.png)
+
+**▼ SSH => Auth => Browse... => Open**  
+![Image](https://user-images.githubusercontent.com/28629625/74033708-17e8b600-49fa-11ea-9ba1-f96713e1a53b.png)
+
+**▼ 예(Y)**  
+![Image](https://user-images.githubusercontent.com/28629625/74033711-1b7c3d00-49fa-11ea-8b78-f619a30d986d.png)
+
+**▼ 접속 성공**  
+![Image](https://user-images.githubusercontent.com/28629625/74033715-1e772d80-49fa-11ea-8565-0f971b37b181.png)
+
+### Tips
+
+**▼ Run Pageant**  
+![Image](https://user-images.githubusercontent.com/28629625/74033724-220ab480-49fa-11ea-91b0-fe4447693be4.png)
+
+**▼ Add Key => funfunhada.ppk => 열기(O) (키를 자동으로 인증하게 도와준다)**  
+![Image](https://user-images.githubusercontent.com/28629625/74033733-259e3b80-49fa-11ea-802e-7b23a0b93bd3.png)
+
+
+
+
+### 관련 
+[putty (Windows 10)](https://blog.naver.com/kjhkjh0929/221776472229)
+
+### 참고 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
 
