@@ -68,7 +68,7 @@
 **▼ Save private key => 예(Y) (같은 폴더 위치에 .ppk 생성 완료)**   
 ![Image](https://user-images.githubusercontent.com/28629625/74033696-11f2d500-49fa-11ea-8cd3-d0d5203cd4c2.png)
 
-**▼ putty 실행 => ip 주소 입력**  
+**▼ putty 실행 => ubuntu + ip 주소 입력**  
 ![Image](https://user-images.githubusercontent.com/28629625/74033705-15865c00-49fa-11ea-8aca-e827a130f922.png)
 
 **▼ SSH => Auth => Browse... => Open**  
