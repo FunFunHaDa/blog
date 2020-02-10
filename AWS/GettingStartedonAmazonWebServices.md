@@ -1,4 +1,4 @@
-# AWS 기본 사용법 (Windows 10, putty)
+# [AWS] AWS 기본 사용법 (Windows 10, putty)
 
 ## 인스턴스 생성 법
 
