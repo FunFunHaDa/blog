@@ -6,4 +6,4 @@ FAILURE: Build failed with an exception.
 Execution failed for task ':test'.
 > No tests found for given includes: [......](filter.includeTestsMatching)
 ```
-test 대상 코드 경로를 못 찾아서 발생하는 오류다, [......]부분이 경로가 맞는지 확인해야 한다.
+### test 대상 코드 경로를 못 찾아서 발생하는 오류다, [......]부분이 경로가 맞는지 확인해야 한다.
