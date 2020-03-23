@@ -68,10 +68,10 @@
 **▼ Save private key => 예(Y) (같은 폴더 위치에 .ppk 생성 완료)**   
 ![Image](https://user-images.githubusercontent.com/28629625/74033696-11f2d500-49fa-11ea-8cd3-d0d5203cd4c2.png)
 
-**▼ putty 실행 => ubuntu + ip 주소 입력**  
+**▼ putty 실행 => ubuntu + ip 주소 입력** (현재 보이는 IP 주소는 예시다) 
 ![Image](https://user-images.githubusercontent.com/28629625/74033705-15865c00-49fa-11ea-8aca-e827a130f922.png)
 
-**▼ SSH => Auth => Browse... => Open** (Open 대신에 Session에서 Save를 하면 자동으로 경로가 저장된다.) 
+**▼ SSH => Auth => Browse... => (경로를 지정한 후 Open 대신에 Session에서 Save를 하면 경로가 저장되어 추후 사용하기 쉬워진다)** 
 ![Image](https://user-images.githubusercontent.com/28629625/74033708-17e8b600-49fa-11ea-9ba1-f96713e1a53b.png)
 
 **▼ 예(Y)**  
