@@ -63,19 +63,21 @@
 ![Image](https://user-images.githubusercontent.com/28629625/74033682-0a333080-49fa-11ea-9c0d-bed115d1c769.png)
 
 **▼ 확인**  
-![Image](https://user-images.githubusercontent.com/28629625/74033687-0d2e2100-49fa-11ea-8d7c-8116dfecaff0.png)
+![Image](https://user-images.githubusercontent.com/28629625/77349964-2bb86380-6d7f-11ea-8568-857266450865.png)
+
 
 **▼ Save private key => 예(Y) (같은 폴더 위치에 .ppk 생성 완료)**   
-![Image](https://user-images.githubusercontent.com/28629625/74033696-11f2d500-49fa-11ea-8cd3-d0d5203cd4c2.png)
+![Image](https://user-images.githubusercontent.com/28629625/77350033-44c11480-6d7f-11ea-89f7-8c3c0bf020dd.png)
 
-**▼ putty 실행 => ubuntu + ip 주소 입력** (현재 보이는 IP 주소는 예시다) 
-![Image](https://user-images.githubusercontent.com/28629625/74033705-15865c00-49fa-11ea-8aca-e827a130f922.png)
+**▼ putty 실행 => SSH => Auth => Browse... (방금 위에서 생성한 .ppk 파일)**  
+![Image](https://user-images.githubusercontent.com/28629625/77349214-0545f880-6d7e-11ea-824c-5f547d220702.png)
 
-**▼ SSH => Auth => Browse... => (경로를 지정한 후 Open 대신에 Session에서 Save를 하면 경로가 저장되어 추후 사용하기 쉬워진다)** 
-![Image](https://user-images.githubusercontent.com/28629625/74033708-17e8b600-49fa-11ea-9ba1-f96713e1a53b.png)
+**▼  ubuntu + ip 주소 입력 => Save => Open (현재 보이는 IP 주소는 예시다)** 
+![Image](https://user-images.githubusercontent.com/28629625/77349559-8604f480-6d7e-11ea-86dd-7f0f21748275.png)
+
 
 **▼ 예(Y)**  
-![Image](https://user-images.githubusercontent.com/28629625/74033711-1b7c3d00-49fa-11ea-8b78-f619a30d986d.png)
+![image](https://user-images.githubusercontent.com/28629625/77350100-5dc9c580-6d7f-11ea-935b-f6df38f9b696.png)
 
 **▼ 접속 성공**  
 ![Image](https://user-images.githubusercontent.com/28629625/74033715-1e772d80-49fa-11ea-8565-0f971b37b181.png)
@@ -87,8 +89,6 @@
 
 **▼ Add Key => funfunhada.ppk => 열기(O) (키를 자동으로 인증하게 도와준다)**  
 ![Image](https://user-images.githubusercontent.com/28629625/74033733-259e3b80-49fa-11ea-802e-7b23a0b93bd3.png)
-
-
 
 
 ### 관련 
