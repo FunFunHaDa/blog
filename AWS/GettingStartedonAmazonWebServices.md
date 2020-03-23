@@ -71,7 +71,7 @@
 **▼ putty 실행 => ubuntu + ip 주소 입력**  
 ![Image](https://user-images.githubusercontent.com/28629625/74033705-15865c00-49fa-11ea-8aca-e827a130f922.png)
 
-**▼ SSH => Auth => Browse... => Open**  
+**▼ SSH => Auth => Browse... => Open** (Open 대신에 Session에서 Save를 하면 자동으로 경로가 저장된다.) 
 ![Image](https://user-images.githubusercontent.com/28629625/74033708-17e8b600-49fa-11ea-9ba1-f96713e1a53b.png)
 
 **▼ 예(Y)**  
@@ -82,7 +82,7 @@
 
 ### Tips
 
-**▼ Run Pageant**  
+**▼ Run Pageant 활용법**  
 ![Image](https://user-images.githubusercontent.com/28629625/74033724-220ab480-49fa-11ea-91b0-fe4447693be4.png)
 
 **▼ Add Key => funfunhada.ppk => 열기(O) (키를 자동으로 인증하게 도와준다)**  
