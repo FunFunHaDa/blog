@@ -153,6 +153,9 @@
 
 6\. [가로 크기, 세로 크기](https://blog.naver.com/PostView.nhn?blogId=kjhkjh0929&logNo=221381959771&parentCategoryNo=&categoryNo=31&viewDate=&isShowPopularPosts=false&from=postView)
 
+7\. [액티비티 생명주기](https://github.com/FunFunHaDa/blog/blob/master/Android/Android_Life_Cycle.md#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0)
+
+
 ### 콘퍼런스
 
 0\. [[세미나] 4차 산업혁명 시대의 스마트팩토리 전략, 20180531](https://blog.naver.com/kjhkjh0929/221367224060)
